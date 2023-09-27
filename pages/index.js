@@ -1,5 +1,5 @@
 import React from "react";
-import { getFeaturedEvents } from "./dummy-data";
+import { getFeaturedEvents } from "../dummy-data";
 import EventList from "../components/events/EvenetList";
 
 const StartingPage = () => {
